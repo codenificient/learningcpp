@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ELON/Desktop/Programming/C++/caleb/main.cpp
+iostream
+-
+
+C:/Users/ELON/Desktop/Programming/C++/caleb/unary.cpp
+unary.h
+C:/Users/ELON/Desktop/Programming/C++/caleb/unary.h
+iostream
+-
+
+C:/Users/ELON/Desktop/Programming/C++/caleb/unary.h
+
